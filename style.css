@@ -1,7 +1,7 @@
 .container {max-width: 60%;
 background-color: rgb(220, 240, 241);
 margin: 60px auto;
-padding: 60px;
+padding: 20px;
 box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.1);
 border-radius: 10px;
 }
