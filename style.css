@@ -1,3 +1,5 @@
+body {background: #edccda;
+background: radial-gradient(circle,rgba(237, 204, 218, 1) 29%, rgb(174, 206, 242) 100%);}
 .container {max-width: 60%;
 background-color: rgb(220, 240, 241);
 margin: 60px auto;
@@ -48,3 +50,5 @@ font-weight: bold;}
     line-height:30px;
 }
 .date {opacity:0.8;}
+.no-style {text-decoration: none;
+    color:black}
