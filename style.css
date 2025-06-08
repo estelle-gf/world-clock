@@ -16,7 +16,7 @@ footer
 }
 a {
     color: rgb(61, 116, 165);
-    text-decoration: wavy underline;
+    text-decoration: dotted underline;
 }
 
 select 
